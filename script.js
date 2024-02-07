@@ -1,9 +1,6 @@
 
 function fibonacci(c) {
-	 // let cc1 = prompt();
-  //       let c1 = parseInt(cc1);
-  //       fibonacci(c1); 
-  //       function fibonacci(c) {
+	
             let c1 = 0;
             let f1 = 0;
             let f2 = 1;
